@@ -1,0 +1,18 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, ‘8.0’
+
+source 'https://github.com/CocoaPods/Specs.git'
+target ‘LiveOCDemo’ do
+    
+    use_frameworks!
+    
+    
+    pod 'TXIMSDK_iOS','4.3.145'
+    pod 'TXIMSDK_TUIKit_iOS','4.3.145'
+    pod 'TXLiteAVSDK_Professional'
+    # pod 'TXLiteAVSDK_TRTC'
+    
+
+    pod 'AFNetworking'
+    
+end

@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - LeoDanmakuKit (1.0.1)
+  - Masonry (1.1.0)
+  - MMLayout (0.2.0)
+  - TXLiteAVSDK_Professional (6.5.7273)
+
+DEPENDENCIES:
+  - AFNetworking
+  - LeoDanmakuKit
+  - Masonry
+  - MMLayout
+  - TXLiteAVSDK_Professional
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - LeoDanmakuKit
+    - Masonry
+    - MMLayout
+    - TXLiteAVSDK_Professional
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  LeoDanmakuKit: d905bf4ba6c47c5e690796f2581e7934c22cdb83
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MMLayout: 3fb59d58eeb8656c64e61d550fb0088e10666c11
+  TXLiteAVSDK_Professional: aa281b0902935c8aad860798036a3ca420108735
+
+PODFILE CHECKSUM: 23c16d30f264638f22e534ffe6b83bc540bf0c30
+
+COCOAPODS: 1.5.3

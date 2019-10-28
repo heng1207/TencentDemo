@@ -1,0 +1,15 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, ‘8.0’
+
+source 'https://github.com/CocoaPods/Specs.git'
+target ‘IMDemo’ do
+    
+    use_frameworks!
+    
+    pod 'StreamingKit' #音频播放
+    
+    
+    pod 'TXIMSDK_iOS'
+    pod 'TXIMSDK_TUIKit_iOS'
+    
+end

@@ -1,0 +1,47 @@
+PODS:
+  - ISVImageScrollView (0.1.2)
+  - MMLayout (0.2.0)
+  - ReactiveObjC (3.1.1)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - StreamingKit (0.1.30)
+  - Toast (4.0.0)
+  - TXIMSDK_iOS (4.4.627)
+  - TXIMSDK_TUIKit_iOS (4.4.627):
+    - ISVImageScrollView
+    - MMLayout
+    - ReactiveObjC
+    - SDWebImage
+    - Toast
+    - TXIMSDK_iOS
+
+DEPENDENCIES:
+  - StreamingKit
+  - TXIMSDK_iOS
+  - TXIMSDK_TUIKit_iOS
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ISVImageScrollView
+    - MMLayout
+    - ReactiveObjC
+    - SDWebImage
+    - StreamingKit
+    - Toast
+    - TXIMSDK_iOS
+    - TXIMSDK_TUIKit_iOS
+
+SPEC CHECKSUMS:
+  ISVImageScrollView: ba511d12a1661b40feb8921309c0854bf93ec749
+  MMLayout: 3fb59d58eeb8656c64e61d550fb0088e10666c11
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  StreamingKit: 70ca8608c206864b4d54a577eacb3c8bf7c72209
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  TXIMSDK_iOS: 6641a71d741a1a1fb31b69419b2431d9aecdf12e
+  TXIMSDK_TUIKit_iOS: 168d95421e6476e8994139f7e21401cc6b13fff7
+
+PODFILE CHECKSUM: 497336d778a92e27d531fc7ccd334e94377e2dc6
+
+COCOAPODS: 1.5.3

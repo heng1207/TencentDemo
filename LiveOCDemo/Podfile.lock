@@ -1,0 +1,57 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - MMLayout (0.2.0)
+  - ReactiveObjC (3.1.1)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - TXIMSDK_iOS (4.3.145)
+  - TXIMSDK_TUIKit_iOS (4.3.145):
+    - MMLayout
+    - ReactiveObjC
+    - SDWebImage
+    - TXIMSDK_iOS
+  - TXLiteAVSDK_Professional (6.5.7273)
+
+DEPENDENCIES:
+  - AFNetworking
+  - TXIMSDK_iOS (= 4.3.145)
+  - TXIMSDK_TUIKit_iOS (= 4.3.145)
+  - TXLiteAVSDK_Professional
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - MMLayout
+    - ReactiveObjC
+    - SDWebImage
+    - TXIMSDK_iOS
+    - TXIMSDK_TUIKit_iOS
+    - TXLiteAVSDK_Professional
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  MMLayout: 3fb59d58eeb8656c64e61d550fb0088e10666c11
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  TXIMSDK_iOS: a06474be30fcc55e098e46fa54c187473f31bddc
+  TXIMSDK_TUIKit_iOS: 581964de72ebbf8ea699fca65c7272bdf615ab4f
+  TXLiteAVSDK_Professional: aa281b0902935c8aad860798036a3ca420108735
+
+PODFILE CHECKSUM: d3ef5c27e920ef600ad87ab010eb9b34dbe9f546
+
+COCOAPODS: 1.5.3
